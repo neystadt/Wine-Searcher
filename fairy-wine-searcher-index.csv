@@ -1,6 +1,200 @@
 SKU|name|description|vintage|unit-size|price|url|min-order|tax|offer-type|delivery-time|stock-level|LWIN
-32|Pertois-Moriset 'Les Quatre Terroirs' Blanc de Blancs Grand Cru Brut|Grand Cru, 100% Chardonnay, 5 years on lees, 3 g/l sugar|NV|0.75L|210|https://www.pertoismoriset.com/fiches-techniques/en-Les-Quatre-Terroirs.pdf|1|Inc|R|1-2 Weeks|30|2146980
-31|Pertois-Moriset L'Assemblage Brut, Champagne, France|50% Chardonnay & 50% Pinot Noir from the Coteaux Sézannais, 18 months on lees, 1 g/l sugar. 44 year old vines.|NV|0.75L|178|https://www.pertoismoriset.com/fiches-techniques/en-LAssemblage.pdf|1|Inc|R|1-2 Weeks|30|2146977
-51|Laherte Freres 'Ultradition' Extra Brut|Munier/Chardonnay/Pinot Noir - 60/30/10, Antonio Galoni 3|NV|0.75L|225|https://www.champagne-laherte.com/?lang=EN#Special-and-Original-Cuvees/Extra-Brut-Ultradition|1|Inc|R|1-2 Weeks|30|2473390
-52|Laherte Freres Blanc de Blancs Brut Nature|100% Chardonnay from Eppernay, AG 95|NV|0.75L|250|https://www.champagne-laherte.com/?lang=EN#Special-and-Original-Cuvees/Blanc-de-Blancs-Brut-Nature|1|Inc|R|1-2 Weeks|30|1367979
-
+46|Leguillette Romelot Prelude Brut|Pinot Meunier - Chardonnay - Pinot Noir|NV|0.75|180||1|Inc|R|1-2 Weeks|32|
+45|Leguillette Romelot Cepages d'Autrefois Brut|All 6 permitted grapes - Pinot Noir, Pinot Munier, Chardonnay and rare Arbanne, Pinot Blanc, Petit Meslier|NV|0.75|189||1|Inc|R|1-2 Weeks|0|
+44|Leguillette Romelot Notes Noires Blanc de Noirs|Pinot Meunier (70%) - Pinot Noir (30%)|NV|0.75|235||1|Inc|R|1-2 Weeks|0|
+48-2014|Leguillette Romelot Symphonie Millesime|Chardonnay - Meunier - Pinot Noir Guide hachette 2021 - 1 étoile *|2014|0.75|183||1|Inc|R|1-2 Weeks|0|
+48-2008|Leguillette Romelot Symphonie Millesime||2008|0.75|230||1|Inc|R|1-2 Weeks|0|
+49-2018|Leguillette Romelot Pinot Blanc|Pinot Blanc|2018|0.75|589||1|Inc|R|1-2 Weeks|0|
+43|Leguillette Romelot Cepages d'Autrefois Rose|All 6 permitted grapes - Pinot Munier, Pinot Noir, Chardonnay, Pinot Blanc, Arbanne, Petite Meslier. Decanter 2020 : Bronze|NV|0.75|245||1|Inc|R|1-2 Weeks|32|
+42|Leguillette Romelot Cepages d'Autrefois Blanc de Blancs|Chardonnay, Pinot Blanc, Arbanne, Petit Meslier DECANTER 2020 : Gold Medal|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+41|Leguillette Romelot Les Clos du Montdorin Millesime|Only rare grapes: Pinot Blanc, Arbanne, Petit Meslier|NV|0.75|498||1|Inc|R|1-2 Weeks|0|
+21J|Roger Manceaux Cuvee de Reserve Premier Cru Brut|Jerobaum (x4) - Pinot Noir/Pinot Munier/Chardonnay|NV|Jerobaum 3l|1100||1|Inc|R|1-2 Weeks|32|
+21M|Roger Manceaux Cuvee de Reserve Premier Cru Brut|Magnum (x2) - Pinot Noir/Pinot Munier/Chardonnay|NV|1.5|375||1|Inc|R|1-2 Weeks|0|
+22|Roger Manceaux Cuvee de Reserve Premier Cru Brut|45% Pinot Noir, 25% Pinot Meunier and 30% Chardonnay|NV|0.75|165||1|Inc|R|1-2 Weeks|0|
+23|Roger Manceaux Premier Cru Brut Rose|85% Pinot Noir and Pinot Meunier from Rilly-La-Montagne and Mailly|NV|0.75|180||1|Inc|R|1-2 Weeks|32|
+25|Roger Manceaux Blanc de Blancs Premier Cru Brut|100% Chardonay, Rilly-La-Montagne and Taissy, 3 years on lees|NV|0.75|193||1|Inc|R|1-2 Weeks|32|
+26|Roger Manceaux Pinot Meunier Premier Cru|100% Meunier - Mountaine de Reims, 3 years on lees|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
+27|Roger Manceaux Pinot Noir Grand Cru|100% Pinot Noir - Mailly, 42 months on lees.|NV|0.75|205||1|Inc|R|1-2 Weeks|32|
+24|Roger Manceaux l'Espressions Grand Cru Coer de Cuvee|100% Pinot Noir - coer de Cuvee, sans Sulfites|NV|0.75|440||1|Inc|R|1-2 Weeks|32|
+29-2016|Roger Manceaux Millésime|50% Pinot Noir Grand Cru from Mailly, and 50% Chardonnay 1er Cru from Taissy. 45 years old vines. 6 years on lees.|2016|0.75|255||1|Inc|R|1-2 Weeks|32|
+29-2015|Roger Manceaux Millésime|50% Pinot Noir Grand Cru from Mailly, and 50% Chardonnay 1er Cru from Taissy. 45 years old vines. 6 years on lees.|2015|0.75|345||1|Inc|R|1-2 Weeks|32|
+29-2012|Roger Manceaux Millésime|50% Pinot Noir Grand Cru from Mailly, and 50% Chardonnay 1er Cru from Taissy. 45 years old vines. 6 years on lees.|2012|0.75|390||1|Inc|R|1-2 Weeks|32|
+20|Roger Manceaux 'Heritage' Brut|60% Pinot Noir Grand Cru, 40% Chardonnay Premier Cru|NV|0.75|307||1|Inc|R|1-2 Weeks|0|
+20-2012|Roger Manceaux 'Heritage' Brut|60% Pinot Noir Grand Cru from Mailly, 40% Chardonnay from Taissy Premier Cru. 9 years on lees|2012|0.75|399||1|Inc|R|1-2 Weeks|32|
+20-2013|Roger Manceaux 'Heritage' Brut|60% Pinot Noir Grand Cru from Mailly, 40% Chardonnay from Taissy Premier Cru. 9 years on lees|2013|0.75|385||1|Inc|R|1-2 Weeks|32|
+1|Marc Hebrart Blanc de Blancs Premier Cru Brut|Chardonnay 100%, Oiry, Chouilly, Mareuil-sur-Aÿ, Antonio Galloni 93|NV|0.75|188||1|Inc|R|1-2 Weeks|32|
+2|Hebrart Selection Premier Cru Brut|Pinot/Chardonnay - 70/30, Antonio Galloni 91|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
+2M|Hebrart Selection Premier Cru Brut|Pinot/Chardonnay - 70/30, Antonio Galloni 91|NV|1.5|410||1|Inc|R|1-2 Weeks|0|
+7|Hebrart Premier Cru Mes Favorites Vieilles Vignes|Vieilles Vignes - Pinot/Chardonnay - 75/25 - Antonio Galloni 92|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
+5|Hebrart Premier Cru Extra Brut Rose|57% Chardonnay, 43% Pinot Noir (7% vin rouge) WS 92|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
+5M|Hebrart Premier Cru Extra Brut Rose|57% Chardonnay, 43% Pinot Noir (7% vin rouge)|NV|1.5|480||1|Inc|R|1-2 Weeks|0|
+8-2014|Hebrart 'Clos le Leon' Extra Brut Millesime|100% Chardonnay, 72 months sur lie, WE 94|2014|0.75|585||1|Inc|R|1-2 Weeks|0|
+8-2016|Hebrart 'Clos le Leon' Extra Brut Millesime|100% Chardonnay, 72 months sur lie, WE 94|2016|0.75|725||1|Inc|R|1-2 Weeks|32|
+6-2016M|Hebrart Special Club Brut Millesime|60% Pinot Noir, 40% Chardonnay, Antonio Galloni 93|2016|1.5|695||1|Inc|R|1-2 Weeks|0|
+6-2018|Hebrart Special Club Brut Millesime|60% Pinot Noir, 40% Chardonnay, Antonio Galloni 93|2018|0.75|280||1|Inc|R|1-2 Weeks|0|
+6-2019|Hebrart Special Club Brut Millesime|60% Pinot Noir, 40% Chardonnay, Antonio Galloni 93|2019|0.75|299||1|Inc|R|1-2 Weeks|0|
+6-2020|Hebrart Special Club Brut Millesime|60% Pinot Noir, 40% Chardonnay, Antonio Galloni 93|2020|0.75|315||1|Inc|R|1-2 Weeks|32|
+6-2019M|Hebrart Special Club Brut Millesime|60% Pinot Noir, 40% Chardonnay, Antonio Galloni 93|2019|1.5|780||1|Inc|R|1-2 Weeks|32|
+3-2018|Hebrart 'Noces de Craie' Grand Cru Blanc de Noirs|Pinot Noir, Antonio Galloni 93|2018|0.75|310||1|Inc|R|1-2 Weeks|0|
+3-2019|Hebrart 'Noces de Craie' Grand Cru Blanc de Noirs|Pinot Noir, Antonio Galloni 93|2019|0.75|340||1|Inc|R|1-2 Weeks|32|
+9-2015|Hebrart 'Rive Gauche Rive Droite' Grand Cru Extra Brut|50% Chardonnay, 50% Pinot Noir, Antonio Galloni 94|2015|0.75|499||1|Inc|R|1-2 Weeks|32|
+9-2018|Hebrart 'Rive Gauche Rive Droite' Grand Cru Extra Brut|50% Chardonnay, 50% Pinot Noir, Antonio Galloni 94|2018|0.75|499||1|Inc|R|1-2 Weeks|32|
+51|Laherte Freres 'Ultradition' Extra Brut|Munier/Chardonnay/Pinot Noir - 60/30/10, AG 93|NV|0.75|225||1|Inc|R|1-2 Weeks|32|2473390
+51M|Laherte Freres 'Ultradition' Extra Brut|Munier/Chardonnay/Pinot Noir - 60/30/10, AG 93|NV|1.5|460||1|Inc|R|1-2 Weeks|32|
+52|Laherte Freres Blanc de Blancs Brut Nature|100% Chardonnay from Eppernay, AG 95|NV|0.75|250||1|Inc|R|1-2 Weeks|32|1367979
+52M|Laherte Freres Blanc de Blancs Brut Nature|100% Chardonnay from Eppernay, AG 95,  - Peter Liem : It’s perfectly balanced as a non-dosé, its 20 percent  of malolactic undoubtedly helping to create a better harmony of  acidity, and while there is a pleasing depth of citrus and apple  fruitiness, along with hints of dried mango and preserved ginger,  this wine is really all about soil and expression of place. **|NV|1.5|520||1|Inc|R|1-2 Weeks|32|1367979
+59|Laherte Freres Blanc de Noirs Brut Nature|50% Pinot Noir and 50% Pinot Meunier|NV|0.75|245||1|Inc|R|1-2 Weeks|0|
+53-2017|Laherte Freres 'Les Grandes Crayeres' Blanc de Blancs Extra Brut Millesime|100% Chardonnay, Antonio Galoni 96|2017|0.75|278||1|Inc|R|1-2 Weeks|0|
+53-2018|Laherte Freres 'Les Grandes Crayeres' Blanc de Blancs Extra Brut Millesime|Chavot with campanian chalk, 100% Chardonnay, Antonio Galoni 96|2018|0.75|350||1|Inc|R|1-2 Weeks|0|
+53-2020|Laherte Freres 'Les Grandes Crayeres' Blanc de Blancs Extra Brut Millesime|Chavot with campanian chalk, 100% Chardonnay, Antonio Galoni 96|2020|0.75|380||1|Inc|R|1-2 Weeks|32|
+58|Laherte Freres Nature de Craie Premier Cru|100% Chardonnay, 1er Cru, Vignes - 1960, 65 & 87. Vertus & Voipreux|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
+54-2015|Laherte Freres Les Vignes d'Autrefois Blanc de Noirs Extra Brut|Pinot Munier - 100%, , Antonio Galoni 93|2015|0.75|390||1|Inc|R|1-2 Weeks|0|
+54-2018|Laherte Freres Les Vignes d'Autrefois Blanc de Noirs Extra Brut|100% Pinot Munier - 100%, Vieilles Vignes, Antonio Galoni 95|2018|0.75|350||1|Inc|R|1-2 Weeks|0|
+54-2020|Laherte Freres Les Vignes d'Autrefois Blanc de Noirs Extra Brut|100% Pinot Munier - 100%, Vieilles Vignes, Antonio Galoni 95|2020|0.75|380||1|Inc|R|1-2 Weeks|32|
+56-2017|Laherte Freres 'Les Longues Voyes' Blanc de Noirs Extra Brut|Pinot Noir 100%|2017|0.75|278||1|Inc|R|1-2 Weeks|0|
+56-2018|Laherte Freres 'Les Longues Voyes' Blanc de Noirs Extra Brut|100% Pinot Noir, 1er Cru|2018|0.75|350||1|Inc|R|1-2 Weeks|0|
+56-2020|Laherte Freres Les Rouges Maisons Blanc de Noirs Extra Brut|100% Pinot Noir, 1er Cru, 24m on lees|2020|0.75|380||1|Inc|R|1-2 Weeks|32|
+57-1|Laherte Freres Rose de Saignee 'Les Beaudiers' Extra Brut|100% Pinot Meunier, AG 95, 36 months on lees|NV|0.75|390||1|Inc|R|1-2 Weeks|32|
+57|Laherte Freres 'Rose de Meunier' Extra Brut|100% Munier, 2.5 g/l, Chavot, Antonio Galoni - 94|NV|0.75|260||1|Inc|R|1-2 Weeks|32|
+55|Laherte Freres Petit Meslier Extra Brut|Petit Meslier - is a historic variety, with exceptional acidity|NV|0.75|530||1|Inc|R|1-2 Weeks|32|
+59-1|Laherte Freres Les 7 Extra Brut|Solera 2005-2021 - 30 months on lees 10% Pinot Gris, 15% Petit Meslier, 8% Arbanne, 17% Pinot Blanc, 18% Chardonnay, 18% Meunier, 14% Pinot Noir|NV|0.75|530||1|Inc|R|1-2 Weeks|32|
+59-2-2018|Laherte Freres Les Empreintes Brut Nature|50 % Chardonnay muscaté / 50 % Pinot Noir, 48 months on lees AG 94, JR 17/20|2018|0.75|430||1|Inc|R|1-2 Weeks|32|
+111-2009|Paul Bara Special Club Blanc de Noirs Brut|Prev|2009|0.75|350||1|Inc|R|1-2 Weeks|0|
+111-2016|Paul Bara Special Club Blanc de Noirs Brut|30% Chardonnay, 70% Pinot Noir, ac 6 g/l, rs 6 g/l, no malo|2016|0.75|390||1|Inc|R|1-2 Weeks|32|
+112|Paul Bara Reserve Grand Cru Brut|20% Chardonnay, 80% Pinot Noir, ac 5.5 g/l, rs 6 g/l, no malo|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
+112M|Paul Bara Reserve Grand Cru Brut|20% Chardonnay, 80% Pinot Noir, ac 5.5 g/l, rs 6 g/l, no malo|NV|1.5|510||1|Inc|R|1-2 Weeks|32|
+113|Paul Bara Grand Cru Extra Brut|20% Chardonnay, 80% Pinot Noir, ac 4.2 g/l, rz 3 g/l|NV|0.75|250||1|Inc|R|1-2 Weeks|32|
+114-2018|Paul Bara Grand Millesime Grand Cru Brut|10% Chardonnay, 90% Pinot Noir, no malo|2018|0.75|300||1|Inc|R|1-2 Weeks|32|
+114-2018M|Paul Bara Grand Millesime Grand Cru Brut|10% Chardonnay, 90% Pinot Noir, no malo|2018|1.5|650||1|Inc|R|1-2 Weeks|32|
+115|Paul Bara Grand Brut Rose|18% Chardonnay, 12% Bouzy Rouge, 70% Pinot Noir, ac 5 g/l, rz 5 g/l, no malo|NV|0.75|240||1|Inc|R|1-2 Weeks|32|
+115M|Paul Bara Grand Brut Rose|18% Chardonnay, 12% Bouzy Rouge, 70% Pinot Noir, ac 5 g/l, rz 5 g/l, no malo|NV|1.5|560||1|Inc|R|1-2 Weeks|32|
+116-2018|Paul Bara Special Club Rose Grand Cru|30% Chardonnay, 70% Pinot Noir, ac 4.4 g/l, rs 4 g/l, no malo|2018|0.75|490||1|Inc|R|1-2 Weeks|32|
+117-2012|Paul Bara Comtesse Marie de France Grand Cru Brut Millesime|2012|2012|0.75|609||1|Inc|R|1-2 Weeks|0|
+117-2014|Paul Bara Comtesse Marie de France Grand Cru Brut Millesime|Pinot Noir, 10 years on lees|2014|0.75|510||1|Inc|R|1-2 Weeks|32|
+117-15|Paul Bara Comtesse Marie de France Grand Cru Brut Millesime|Pinot Noir, 10 years on lees|2015|0.75|520||1|Inc|R|1-2 Weeks|32|
+118-2009|Paul Bara Annonciade Grand Cru Brut Millesime|Pinot Noir, 15 years on lees|2009|0.75|700||1|Inc|R|1-2 Weeks|32|
+118-12|Paul Bara Annonciade Grand Cru Brut Millesime|Pinot Noir, 15 years on lees|2012|0.75|700||1|Inc|R|1-2 Weeks|32|
+118-2006|Paul Bara Annonciade Grand Cru Brut Millesime|Bouzy Grand Cru - 100% Pinot Noir|2006|0.75|350||1|Inc|R|1-2 Weeks|0|
+119-16|Paul Bara l'Audacieuse Grand Cru|Chardonnay, 9 years on lees|2016|0.75|520||1|Inc|R|1-2 Weeks|32|
+31|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar. 44 year old vines."|NV|0.75|178||1|Inc|R|1-2 Weeks|32|2146977
+31M|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar"|NV|1.5|410||1|Inc|R|1-2 Weeks|32|2146977
+31J|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar"|NV|Jerobaum 3l|1010||1|Inc|R|1-2 Weeks|32|2146977
+32|Pertois-Moriset 'Les Quatre Terroirs' Blanc de Blancs Grand Cru Brut|100% Chardonnay, 5 years on lees, 3 g/l sugar|NV|0.75|210||1|Inc|R|1-2 Weeks|32|2146980
+32M|Pertois-Moriset 'Les Quatre Terroirs' Blanc de Blancs Grand Cru Brut|100% Chardonnay, 5 years on lees, 3 g/l sugar|NV|1.5|465||1|Inc|R|1-2 Weeks|32|2146980
+33|Pertois-Moriset 'Rose & Blanc Collection' Grand Cru Brut|92% Chardonnay Grand Cru from the Côte des Blancs & 8 % of red wine from Bouzy (Pinot Noir) Partial vinification in barrels, 30 months on lees, 3 g/l sugar|NV|0.75|240||1|Inc|R|1-2 Weeks|32|
+33M|Pertois-Moriset 'Rose & Blanc Collection' Grand Cru Brut|92% Chardonnay Grand Cru from the Côte des Blancs & 8 % of red wine from Bouzy (Pinot Noir) Partial vinification in barrels, 30 months on lees, 3 g/l sugar|NV|1.5|530||1|Inc|R|1-2 Weeks|32|
+34-2018|Pertois-Moriset 'Barbonne-Fayel' Extra Brut|100% Pinot Noir, 3 years on lees|2018|0.75|345||1|Inc|R|1-2 Weeks|0|
+34M-2018|Pertois-Moriset 'Barbonne-Fayel' Extra Brut|100% Pinot Noir, 3 years on lees|2018|1.5|710||1|Inc|R|1-2 Weeks|0|
+39-1-2018|Pertois-Moriset 'Cramant' Grand Cru Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|0.75|370||1|Inc|R|1-2 Weeks|32|
+39-2-2018|Pertois-Moriset 'Chouilly' Grand Cru Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|0.75|370||1|Inc|R|1-2 Weeks|32|
+36-2017|Pertois Moriset Grand Cru Oger Extra Brut|100% Chardonnay, 36 months on lees, 2 g/l sugar|2017|0.75|370||1|Inc|R|1-2 Weeks|0|
+36-2018|Pertois Moriset Grand Cru Oger Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|0.75|370||1|Inc|R|1-2 Weeks|32|
+35-2015|Pertois-Moriset 'Special Club' Grand Cru|100% Chardonnay, 60 months, 2 sugar g/l|2015|0.75|420||1|Inc|R|1-2 Weeks|0|
+35-2016|Pertois-Moriset 'Special Club' Grand Cru|100% Chardonnay, 60 months, 2 sugar g/l|2016|0.75|420||1|Inc|R|1-2 Weeks|32|
+35M-15|Pertois-Moriset 'Special Club' Grand Cru|100% Chardonnay, 60 months, 2 sugar g/l|2015|1.5|890||1|Inc|R|1-2 Weeks|32|
+37-2015|Pertois-Moriset Les Hautes Mottes Grand Cru Extra Brut|100% Chardonnay, 72 months on lees, 2.2 g/l sugar|2015|0.75|465||1|Inc|R|1-2 Weeks|0|
+37-2016|Pertois-Moriset Les Hautes Mottes Grand Cru Extra Brut|100% Chardonnay, 72 months on lees, 2.2 g/l sugar|2016|0.75|440||1|Inc|R|1-2 Weeks|32|
+37-1-2016|Pertois-Moriset Lieu-Dit 'Les Jutees' Grand Cru|100% Chardonnay, 72 months, non dose (1.1 sugar g/l)|2016|0.75|440||1|Inc|R|1-2 Weeks|32|
+37-2-2016|Pertois-Moriset Les Jeamprins Grand Cru Brut Nature|100% Chardonnay, 72 months, non dose (1.1 sugar g/l)|2016|0.75|440||1|Inc|R|1-2 Weeks|32|
+38-2015|Pertois-Moriset Les Hauts d'Aillerands Grand Cru Brut Nature|100% Chardonnay, 72 months on lees, 2.2 g/l sugar|2015|0.75|465||1|Inc|R|1-2 Weeks|0|
+38-2013|Pertois-Moriset Les Hauts d'Aillerands Grand Cru Brut Nature|100% Chardonnay, 72 months on lees, 2.2 g/l sugar|2013|0.75|465||1|Inc|R|1-2 Weeks|0|
+36M-2018|Pertois Moriset Grand Cru Oger Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|1.5|760||1|Inc|R|1-2 Weeks|32|
+39-1M-2018|Pertois-Moriset 'Cramant' Grand Cru Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|1.5|760||1|Inc|R|1-2 Weeks|32|
+39-2M-2018|Pertois-Moriset 'Chouilly' Grand Cru Extra Brut|100% Chardonnay, 48 months on lees, 2.2 g/l sugar|2018|1.5|760||1|Inc|R|1-2 Weeks|32|
+81|Diebolt-Vallois Tradition Brut|40% Chardonnay, 30-40% Noir, 20-30% Meunier|NV|0.75|175||1|Inc|R|1-2 Weeks|0|
+82|Diebolt-Vallois Brut Rose|WS 91, 63% Pinot Noir, 27% Chardonnay, 10% Pinot Meunier WS: Deep in color and vinous in its red fruit, this is a spicy and compelling rosé. There's pristine strawberry flavor at its core, surrounded by accents of red grapefruit, blood orange and fennel. The wine's intensity rises like its bubbles from base note to high notes, leaving a pale red fruit ghosting in the finish.|NV|0.75|200||1|Inc|R|1-2 Weeks|32|
+83|Diebolt-Vallois Blanc de Blancs Brut|100% Chardonnay from Cuis & Chouilly|NV|0.75|191||1|Inc|R|1-2 Weeks|32|
+83M|Diebolt-Vallois Blanc de Blancs Brut|100% Chardonnay from Cuis & Chouilly|NV|1.5|426||1|Inc|R|1-2 Weeks|32|
+85|Diebolt-Vallois Prestige Blanc de Blancs Brut|WS 93, 100% Ch: Cramant, Chouilly, Le Mesnil/Oger|NV|0.75|240||1|Inc|R|1-2 Weeks|0|
+85M|Diebolt-Vallois Prestige Blanc de Blancs Brut|WS 93, 100% Ch: Cramant, Chouilly, Le Mesnil/Oger|NV|1.5|535||1|Inc|R|1-2 Weeks|0|
+86-2015|Diebolt-Vallois Blanc de Blancs Brut Millesime|BdB - Chardonnay Grand Cru, 5 years on lees|2015|0.75|247||1|Inc|R|1-2 Weeks|0|
+86-2018|Diebolt-Vallois Blanc de Blancs Brut Millesime|BdB - Chardonnay Grand Cru, 5 years on lees|2018|0.75|280||1|Inc|R|1-2 Weeks|0|
+86M-2018|Diebolt-Vallois Blanc de Blancs Brut Millesime|BdB - Chardonnay Grand Cru, 5 years on lees|2018|1.5|610||1|Inc|R|1-2 Weeks|32|
+87-2013|Diebolt-Vallois 'Fleur de Passion' Blanc de Blancs Brut|Vielles Vignes Cramant Grand Cru - BdB - Chardonnay|2013||529||1|Inc|R|1-2 Weeks|0|
+87-2014|Diebolt-Vallois 'Fleur de Passion' Blanc de Blancs Brut|Vielles Vignes Cramant Grand Cru - BdB - Chardonnay, 10 years on lees|2014||599||1|Inc|R|1-2 Weeks|0|
+87-2008|Diebolt-Vallois 'Fleur de Passion' Blanc de Blancs Brut|15 years on lees, Vielles Vignes Cramant Grand Cru - BdB - Chardonnay|2008|0.75|1350||1|Inc|R|1-2 Weeks|32|
+87-2014M|Diebolt-Vallois 'Fleur de Passion' Blanc de Blancs Brut|Vielles Vignes Cramant Grand Cru - BdB - Chardonnay, 10 years on lees|2014|1.5|1290||1|Inc|R|1-2 Weeks|32|
+71|Soutiran Cuvee Alexandre Premier Cru Brut|Chardonnay 40%, Noir - 40%, Munier - 20%|NV|0.75|181||1|Inc|R|1-2 Weeks|0|
+72|Soutiran 'Signature' Grand Cru Brut|RP 91+, WE 93, Chardonnay 38%, Pinot Noir - 62%|NV|0.75|225||1|Inc|R|1-2 Weeks|32|
+72M|Soutiran 'Signature' Grand Cru Brut|RP 91, Chardonnay 40%, Noir - 40%, Munier - 20%, 6 g/l|NV|1.5|430||1|Inc|R|1-2 Weeks|0|
+79J|Soutiran 'Signature' Grand Cru Brut|RP 91, Chardonnay 40%, Noir - 40%, Munier - 20%, 6 g/l|NV||||1|Inc|R|1-2 Weeks|0|
+74|Soutiran Blanc de Blancs Grand Cru Brut|RP 92, 100% Chardonnay|NV|0.75|240||1|Inc|R|1-2 Weeks|32|
+73|Soutiran Perle Noire Blanc de Noirs Grand Cru Brut|RP 92, 100% Pinot Noir|NV|0.75|265||1|Inc|R|1-2 Weeks|32|
+73M|Soutiran Perle Noire Blanc de Noirs Grand Cru Brut|RP 92, 100% Pinot Noir, 6.5 g/l|NV|1.5|541||1|Inc|R|1-2 Weeks|0|
+78|Soutiran Collection Privee Grand Cru Brut|RP 93, Chardonnay 53%, Pinot Noir - 47%|NV|0.75|280||1|Inc|R|1-2 Weeks|32|
+75|Soutiran Grand Cru Brut Nature|WE 90, Zero Dosage, Chardonnay 28%, Pinot Noir - 72%, 9 years on lees|NV|0.75|285||1|Inc|R|1-2 Weeks|32|
+76|Soutiran Grand Cru Brut Rose|WE 91, Chardonnay 70%, Pinot Noir - 30%|NV|0.75|295||1|Inc|R|1-2 Weeks|0|
+77|Soutiran Rose de Saignee Brut|100% Pinot Noir, Ambonnay Grand Cru (neighbour of Krug's Clos d'Ambonnay) 90% 2008, 10% reserve wine, disgorged in 2022, 14 years on the lees.|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
+78M|Soutiran Collection Privee Grand Cru Brut|RP 93, Chardonnay 53%, Noir - 47%, 3.5 g/l|NV|1.5|||1|Inc|R|1-2 Weeks|0|
+79-2018|Soutiran Grand Cru Brut Millesime|RP 94, Chardonnay 44%, Pinot Noir - 56%|2018|0.75|370||1|Inc|R|1-2 Weeks|32|
+141e|Christophe Mignon ADN de Meunier Extra Brut|2019/2020, 3 years on lees, 2-4 g/l, Vineyard : Festigny & Le Breuil. Soil : clay and limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 48 years. No Malo.|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
+141|Christophe Mignon ADN de Meunier Brut Nature|2019/2020, 3 years on lees, 2 g/l, Vineyard : Festigny & Le Breuil. Soil : clay and limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 48 years. No Malo.|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
+1.44e-16|Christophe Mignon ADN de Meunier Extra Brut Millesime|Vineyard : located in  Festigny, parcel called “La Barrière”, and planted in 1987. 5 years on lees. 2-4 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
+144-18|Christophe Mignon ADN de Meunier Brut Nature Millesime|Vineyard : located in  Festigny, parcel called “La Barrière”, and planted in 1987. 5 years on lees. 2 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
+146e|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2-4 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
+146|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
+145|Christophe Mignon ADN de Meunier Brut Rose|Harvest 2019/20, 3 years on lees, 2-4 g/l Vineyard located in  Festigny and Le Breuil. 42 years old No Malo|NV|0.75|270||1|Inc|R|1-2 Weeks|32|
+147|Christophe Mignon ADN de Foudre Meunier|Festigny. clay limestone – Terroir Vallée de la Marne. 1 year in Fuder, 5 years on lees. Vines : average age of the plots is 48 years.|NV|0.75|330||1|Inc|R|1-2 Weeks|32|
+142e|Christophe Mignon ADN de Foudre Meunier|5 years on lees. 2-4 g/l Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
+142|Christophe Mignon ADN de Foudre Pinot Noir|5 years on lees. 2 g/l Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
+143e|Christophe Mignon ADN de Foudre Chardonnay|4 years on lees, basis 2020. 2-4 g/l 1 year big fudre Vineyard : located in  Festigny and Le Breuil. Soil : clay limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 32 years. No Malo|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
+143|Christophe Mignon ADN de Foudre Chardonnay|4 years on lees, basis 2020. 2 g/l 1 year big fudre Vineyard : located in  Festigny and Le Breuil. Soil : clay limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 32 years. No Malo|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
+903-23|Weingut Max Ferd. Richter Riesling Classic|12% ABV, 2023|2023|0.75|95||1|Inc|R|1-2 Weeks|0|
+903-24|Weingut Max Ferd. Richter Riesling Classic|12% ABV, 2023|2024|0.75|95||1|Inc|R|1-2 Weeks|32|
+904-22|Weingut Max Ferd. Richter Estate Riesling|11% ABV, 2023|2022|0.75|105||1|Inc|R|1-2 Weeks|0|
+909-21|Weingut Max Ferd. Richter Brauneberger Juffer Alte Reben|11.5% ABV, 2021, EL (1er Cru), 75 years vines, JS 95 Gray slate, battonage|2021|0.75|135||1|Inc|R|1-2 Weeks|0|
+909-23|Weingut Max Ferd. Richter Brauneberger Juffer Alte Reben|11.5% ABV, 2021, EL (1er Cru), 75 years vines, 92 MFW, JS 95 Gray slate, battonage|2023|0.75|135||1|Inc|R|1-2 Weeks|32|
+910-21|Weingut Max Ferd. Richter Graacher Domprobst Alte Reben Riesling|12.5% ABV, 2021, 75 years vines, GL (Grand Cru), Lobenberg: 93+ Devonian (blue & gray) slate, battonage|2021|0.75|140||1|Inc|R|1-2 Weeks|0|
+910M-19|Weingut Max Ferd. Richter Graacher Domprobst Alte Reben Riesling|12.5% ABV, 2021, 75 years vines, GL (Grand Cru), Lobenberg: 93+ Devonian (blue & gray) slate, battonage|2019|1.5|480||1|Inc|R|1-2 Weeks|32|
+910-23|Weingut Max Ferd. Richter Graacher Domprobst Alte Reben Riesling|12.5% ABV, 2021, 75 years vines, GL (Grand Cru), Lobenberg: 93+, 92 MFW,  Devonian (blue & gray) slate, battonage|2023|0.75|140||1|Inc|R|1-2 Weeks|32|
+910-15|Weingut Max Ferd. Richter Graacher Domprobst Alte Reben Riesling|11.5% ABV, 2021, 75 years vines, GL (Grand Cru), Lobenberg: 93+, 92 MFW,  Devonian (blue & gray) slate, battonage|2015|0.75|245||1|Inc|R|1-2 Weeks|32|
+911-21|Weingut Max Ferd. Richter Brauneberger Juffer Sonnenuhr Riesling Grosses Gewachs|12% ABV, 2021, Großes Gewächs 2020 (GG/Grand Cru), JS: 95 Devonian (blue & gray) slate, battonage|2021|0.75|175||1|Inc|R|1-2 Weeks|32|
+911M-19|Weingut Max Ferd. Richter Brauneberger Juffer Sonnenuhr Riesling Grosses Gewachs|12% ABV, 2021, Großes Gewächs 2020 (GG/Grand Cru), JS: 95 Devonian (blue & gray) slate, battonage|2019|0.75|520||1|Inc|R|1-2 Weeks|32|
+912-21|Weingut Max Ferd. Richter Wehlener Sonnenuhr Riesling Uralte Reben Grosses Gewachs|11% ABV, 2021, Uralte Reben (125 year ungrafted vines) Großes Gewächs  (GG), 92 WP Dark grey slate|NV|0.75|230||1|Inc|R|1-2 Weeks|0|
+912-18|Weingut Max Ferd. Richter Wehlener Sonnenuhr Riesling Uralte Reben Grosses Gewachs|11% ABV, 2023, Uralte Reben (125 year ungrafted vines) Großes Gewächs  (GG), 92 WP Dark grey slate|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
+951-11|Weingut Max Ferd. Richter Mülheimer Sonnenlay Riesling Spätlese trocken|1G/EL 2011 12,5% ABV|NV|0.75|135||1|Inc|R|1-2 Weeks|32|
+915-19|Weingut Max Ferd. Richter Mülheimer Sonnenlay feinherb|2018, Alte Reben (75 years vines) Auslese, RP 95, MFW 92 Brown slate,  11% ABV, rz 32.5, ac 6.9|NV|0.75|130||1|Inc|R|1-2 Weeks|0|
+915-18|Weingut Max Ferd. Richter Mülheimer Sonnenlay feinherb|2018, Alte Reben (75 years vines) Auslese, RP 95, MFW 92 Brown slate,  11% ABV, rz 32.5, ac 6.9|NV|0.75|130||1|Inc|R|1-2 Weeks|32|
+919i-23|Weingut Max Ferd. Richter Brauneberger Juffer Riesling Kabinett|GL Kabinett 7,85% alc/vol. very mineral & drier|NV|0.75|135||1|Inc|R|1-2 Weeks|32|
+922-21|Weingut Max Ferd. Richter Erdener Treppchen Riesling Spatlese|GL Spätlese 7,5% ABV|NV|0.75|120||1|Inc|R|1-2 Weeks|0|
+932-23|Weingut Max Ferd. Richter Wehlener Sonnenuhr Riesling Auslese|GL Auslese***, cask 42 (h), 98 MFW 7.5% ABV|NV|0.75|410||1|Inc|R|1-2 Weeks|32|
+937-11|Weingut Max Ferd. Richter Wehlener Sonnenuhr Riesling Beerenauslese|Beerenauslese (BA) 8% ABV|NV|0.375|590||1|Inc|R|1-2 Weeks|32|
+942-11|Weingut Max Ferd. Richter Brauneberger Juffer-Sonnenuhr Riesling Trockenbeerenauslese|Trockenbeerenauslese (TBA) 5.5% ABV|NV|0.375|690||1|Inc|R|1-2 Weeks|32|
+942-2020|Weingut Max Ferd. Richter Mulheimer Sonnenlay Riesling Sekt Brut|12% ABV, 2020, Brut|NV|0.75|145||1|Inc|R|1-2 Weeks|32|
+946-19|Weingut Max Ferd. Richter Pinot Blanc Sekt Brut Nature|Zero dosage - at least 52 months ageing on the lees|NV|0.75|150||1|Inc|R|1-2 Weeks|32|
+947-15|"Weingut Max Ferd. Richter Pinot Blanc ""R"""||NV|0.75|150||1|Inc|R|1-2 Weeks|32|
+1016-23|Peter Lauer Saar Riesling Fass 16 Trocken|11.5% abvPigot 90 dry mineral, daily drinking wine|NV|0.75|100||1|Inc|R|1-2 Weeks|32|
+1019-23|Peter Lauer Alt Scheidt Saar Riesling Feinherb|tangy, fruity, and invigorating, Fisch & Rayer: 89 10.5% abv|NV|0.75|100||1|Inc|R|1-2 Weeks|32|
+1001-22|Peter Lauer Ayler Kupp Fass 1 Riesling|betwen trocken and finherb - 11.4% abv 11-29 years old vines|NV|0.75|167||1|Inc|R|1-2 Weeks|0|
+1001-23|Peter Lauer Ayler Kupp Fass 1 Riesling|betwen trocken and finherb - 11.4% abv 11-29 years old vines|NV|0.75|120||1|Inc|R|1-2 Weeks|32|
+1002-22|Peter Lauer Ayler Kupp Fass 2 Riesling Trocken|N2 Ayler - great balance, 12% ab, 90 MFW 23 years old vines|NV|0.75|167||1|Inc|R|1-2 Weeks|0|
+1002-23|Peter Lauer Ayler Kupp Fass 2 Riesling Trocken|N2 Ayler - great balance, 12% ab, 90 MFW 23 years old vines|NV|0.75|120||1|Inc|R|1-2 Weeks|32|
+1021-22|Peter Lauer Ayl No.21 Riesling|AYL Premier Cru (EL), trocken - 12% ABV Improved after 24h - Let it breadth long time. (MSFW 90-92) 33 years old vines|NV|0.75|180||1|Inc|R|1-2 Weeks|0|
+1021-23|Peter Lauer Ayl No.21 Riesling|AYL Premier Cru (EL), trocken - 12% ABV Improved after 24h - Let it breadth long time. (MSFW 90-92) 33 years old vines|NV|0.75|180||1|Inc|R|1-2 Weeks|32|
+1011-22|Peter Lauer Schonfels Fass 11 Grosses Gewachs|SCHONFELS GG, 12.4% ABV, JS 95 109 years old vines|NV|0.75|270||1|Inc|R|1-2 Weeks|0|
+1011-23|Peter Lauer Schonfels Fass 11 Grosses Gewachs|SCHONFELS GG, 12.4% ABV, JS 100 109 years old vines|NV|0.75|245||1|Inc|R|1-2 Weeks|0|
+1012-22|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|"""UNTERSTENBERG"" GL, 11.9% ABV - MFW 91 68 years old vines"|NV|0.75|190||1|Inc|R|1-2 Weeks|0|
+1012-23|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|"""UNTERSTENBERG"" GL, 11.9% ABV - MFW 91 68 years old vines"|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
+1013-19|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+1013-23|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|32|
+1013-22|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+1017-22|Peter Lauer 'Neuenbersch- Neuenberg' Fass 17 Riesling|Neuenberg GL - 12.3% ABV, 22 MFW 90+, JS 95 34 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+1017-23|Peter Lauer 'Neuenbersch- Neuenberg' Fass 17 Riesling|Neuenberg GL - 12.3% ABV, 22 MFW 90+, JS 95 34 years old vines|NV|0.75|195||1|Inc|R|1-2 Weeks|32|
+1018-23|Peter Lauer Ayler Kupp Fass 18 Grosses Gewachs|KUPP GG, 12% ABV, MSFW/JS 94 65 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|32|
+1018-22|Peter Lauer Ayler Kupp Fass 18 Grosses Gewachs|KUPP GG, 12% ABV, MSFW/JS 94 65 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+1018-19|Peter Lauer Ayler Kupp Fass 18 Grosses Gewachs|KUPP GG, 12% ABV, MSFW/JS 94 65 years old vines|NV|0.75|255||1|Inc|R|1-2 Weeks|0|
+1009-22|Peter Lauer 'Kern' Ayler Kupp Fass 9 Riesling|KERN GL finеherb, ABV 9.5%m, MSFW 93 77 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
+1015-22|Peter Lauer 'Stirn' Ayler Kupp Fass 15 Riesling|STIRN GL finеherb, ABV 9.3%, MFW 94 67 years old vines|NV|0.75|210||1|Inc|R|1-2 Weeks|32|
+1008-23|Peter Lauer Fass 8 Ayler Kupp Riesling Kabinett|KABINETT Kupp - fine, elegant, stimulating, 7.8% ABV, MFW 91|NV|0.75|145||1|Inc|R|1-2 Weeks|32|
+1014-23|Peter Lauer Lambertskirch Kabinett|KABINETT Lambertskirch - full-fruity, spicy, 7.5% ABV, MFW 93|NV|0.75|145||1|Inc|R|1-2 Weeks|0|
+1111-23|Peter Lauer 'Schonfels' Fass 11 Riesling|KABINETT Schonfels - ripeness, very fine balance, 7.4% ABV, MFW 93|NV|0.75|165||1|Inc|R|1-2 Weeks|32|
+1007-22|Peter Lauer Ayler Kupp Fass 7 Riesling Spatlese|sweet - SPÄTLESE exotic fruits, pineapple, smoke overripe, fine balance.  7.2% ABV - MFW 92, 51-60 years old vines|NV|0.75|197||1|Inc|R|1-2 Weeks|0|
+1007-23|Peter Lauer Ayler Kupp Fass 7 Riesling Spatlese|sweet - SPÄTLESE exotic fruits, pineapple, smoke overripe, fine balance.  7.2% ABV - MFW 92, 51-60 years old vines|NV|0.75|195||1|Inc|R|1-2 Weeks|32|
+1024_1-22|Peter Lauer 'Privatfullung' Feils Riesling Spatlese|Feils SPÄTLESE > private bottling < exoticism, volume, full fruit, ABV???|NV|0.75|230||1|Inc|R|1-2 Weeks|32|
+1027-23|Peter Lauer Auslese Petit Ayl|Auslese Petit Ayl - touch of 5-10% botrytis, ??? ABV, 94 MFW|NV|0.375|210||1|Inc|R|1-2 Weeks|32|
+1060-18|Peter Lauer Beerenauslese Sonnenberg|BA GL 97 MFW '23|NV|0.375|1350||1|Inc|R|1-2 Weeks|32|
+1050-84|Peter Lauer Saar Reserve Riesling Sekt Brut|Cremant Grand Reserve - Brut Nature - 36 years on lees|NV|0.75|540||1|Inc|R|1-2 Weeks|32|
+1050-92|Peter Lauer Saar Reserve Riesling Sekt Brut|Cremant Reserve - Brut - 30 years on lees|NV|0.75|475||1|Inc|R|1-2 Weeks|32|
+1050-20|Peter Lauer Saar Riesling Sekt Brut|Extra Brut - Sekt|NV|0.75|155||1|Inc|R|1-2 Weeks|0|
+1050-21|Peter Lauer Saar Riesling Sekt Brut|Extra Brut - Sekt|NV|0.75|140||1|Inc|R|1-2 Weeks|0|
+1050-22|Peter Lauer Saar Riesling Sekt Brut|Extra Brut - Sekt|NV|0.75|140||1|Inc|R|1-2 Weeks|32|
