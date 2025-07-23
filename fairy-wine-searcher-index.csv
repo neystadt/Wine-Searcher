@@ -76,9 +76,9 @@ SKU|name|description|vintage|unit-size|price|url|min-order|tax|offer-type|delive
 118-12|Paul Bara Annonciade Grand Cru Brut Millesime|Pinot Noir, 15 years on lees|2012|0.75|700||1|Inc|R|1-2 Weeks|32|
 118-2006|Paul Bara Annonciade Grand Cru Brut Millesime|Bouzy Grand Cru - 100% Pinot Noir|2006|0.75|350||1|Inc|R|1-2 Weeks|0|
 119-16|Paul Bara l'Audacieuse Grand Cru, Champagne, France|Chardonnay, 9 years on lees|2016|0.75|520||1|Inc|R|1-2 Weeks|32|
-31|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar. 44 year old vines."|NV|0.75|178||1|Inc|R|1-2 Weeks|32|2146977
-31M|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar"|NV|1.5|410||1|Inc|R|1-2 Weeks|32|2146977
-31J|Pertois-Moriset L'Assemblage Brut|"50% Chardonnay & 50% Pinot Noir from the ""Coteaux Sézannais"", 18 months on lees, 1 g/l sugar"|NV|Jerobaum 3l|1010||1|Inc|R|1-2 Weeks|32|2146977
+31|Pertois-Moriset L'Assemblage Brut|50% Chardonnay & 50% Pinot Noir from the Coteaux Sézannais, 18 months on lees, 1 g/l sugar. 44 year old vines.|NV|0.75|178||1|Inc|R|1-2 Weeks|32|2146977
+31M|Pertois-Moriset L'Assemblage Brut|50% Chardonnay & 50% Pinot Noir from the Coteaux Sézannais, 18 months on lees, 1 g/l sugar. 44 year old vines.|NV|1.5|410||1|Inc|R|1-2 Weeks|32|2146977
+31J|Pertois-Moriset L'Assemblage Brut|50% Chardonnay & 50% Pinot Noir from the Coteaux Sézannais, 18 months on lees, 1 g/l sugar. 44 year old vines.|NV|Jerobaum 3l|1010||1|Inc|R|1-2 Weeks|32|2146977
 32|Pertois-Moriset 'Les Quatre Terroirs' Blanc de Blancs Grand Cru Brut|100% Chardonnay, 5 years on lees, 3 g/l sugar|NV|0.75|210||1|Inc|R|1-2 Weeks|32|2146980
 32M|Pertois-Moriset 'Les Quatre Terroirs' Blanc de Blancs Grand Cru Brut|100% Chardonnay, 5 years on lees, 3 g/l sugar|NV|1.5|465||1|Inc|R|1-2 Weeks|32|2146980
 33|Pertois-Moriset 'Rose & Blanc Collection' Grand Cru Brut|92% Chardonnay Grand Cru from the Côte des Blancs & 8 % of red wine from Bouzy (Pinot Noir) Partial vinification in barrels, 30 months on lees, 3 g/l sugar|NV|0.75|240||1|Inc|R|1-2 Weeks|32|2146977
@@ -129,14 +129,14 @@ SKU|name|description|vintage|unit-size|price|url|min-order|tax|offer-type|delive
 79-2018|Soutiran Grand Cru Brut Millesime|RP 94, Chardonnay 44%, Pinot Noir - 56%|2018|0.75|370||1|Inc|R|1-2 Weeks|32|
 141e|Christophe Mignon ADN de Meunier Extra Brut|2019/2020, 3 years on lees, 2-4 g/l, Vineyard : Festigny & Le Breuil. Soil : clay and limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 48 years. No Malo.|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
 141|Christophe Mignon ADN de Meunier Brut Nature|2019/2020, 3 years on lees, 2 g/l, Vineyard : Festigny & Le Breuil. Soil : clay and limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 48 years. No Malo.|NV|0.75|215||1|Inc|R|1-2 Weeks|32|
-1.44e-16|Christophe Mignon ADN de Meunier Extra Brut Millesime|Vineyard : located in  Festigny, parcel called “La Barrière”, and planted in 1987. 5 years on lees. 2-4 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
-144-18|Christophe Mignon ADN de Meunier Brut Nature Millesime|Vineyard : located in  Festigny, parcel called “La Barrière”, and planted in 1987. 5 years on lees. 2 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
-146e|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2-4 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
-146|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
+1.44e-16|Christophe Mignon ADN de Meunier Extra Brut Millesime|Vineyard : located in  Festigny, parcel called La Barrière, and planted in 1987. 5 years on lees. 2-4 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
+144-18|Christophe Mignon ADN de Meunier Brut Nature Millesime|Vineyard : located in  Festigny, parcel called La Barrière, and planted in 1987. 5 years on lees. 2 g/l|2018|0.75|360||1|Inc|R|1-2 Weeks|32|
+146e|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2-4 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called La Brousse Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
+146|Christophe Mignon ADN de Meunier Rose de Saignee|35 hours meceration on skins, 4 years on lees. 2 g/l Harvest 2019 Vineyard : located in Le Breuil. parcel called La Brousse Soil : clay limestone – Terroir Vallée de la Marne. No malo|NV|0.75|325||1|Inc|R|1-2 Weeks|32|
 145|Christophe Mignon ADN de Meunier Brut Rose|Harvest 2019/20, 3 years on lees, 2-4 g/l Vineyard located in  Festigny and Le Breuil. 42 years old No Malo|NV|0.75|270||1|Inc|R|1-2 Weeks|32|
 147|Christophe Mignon ADN de Foudre Meunier|Festigny. clay limestone – Terroir Vallée de la Marne. 1 year in Fuder, 5 years on lees. Vines : average age of the plots is 48 years.|NV|0.75|330||1|Inc|R|1-2 Weeks|32|
-142e|Christophe Mignon ADN de Foudre Meunier|5 years on lees. 2-4 g/l Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
-142|Christophe Mignon ADN de Foudre Pinot Noir|5 years on lees. 2 g/l Vineyard : located in Le Breuil. parcel called “La Brousse” Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
+142e|Christophe Mignon ADN de Foudre Meunier|5 years on lees. 2-4 g/l Vineyard : located in Le Breuil. parcel called La Brousse Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
+142|Christophe Mignon ADN de Foudre Pinot Noir|5 years on lees. 2 g/l Vineyard : located in Le Breuil. parcel called La Brousse Soil : clay limestone – Terroir Vallée de la Marne.  No Malo.|NV|0.75|315||1|Inc|R|1-2 Weeks|32|
 143e|Christophe Mignon ADN de Foudre Chardonnay|4 years on lees, basis 2020. 2-4 g/l 1 year big fudre Vineyard : located in  Festigny and Le Breuil. Soil : clay limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 32 years. No Malo|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
 143|Christophe Mignon ADN de Foudre Chardonnay|4 years on lees, basis 2020. 2 g/l 1 year big fudre Vineyard : located in  Festigny and Le Breuil. Soil : clay limestone – Terroir Vallée de la Marne. Vines : average age of the plots is 32 years. No Malo|NV|0.75|320||1|Inc|R|1-2 Weeks|32|
 903-23|Weingut Max Ferd. Richter Riesling Classic|12% ABV, 2023|2023|0.75|95||1|Inc|R|1-2 Weeks|0|
@@ -162,7 +162,7 @@ SKU|name|description|vintage|unit-size|price|url|min-order|tax|offer-type|delive
 942-11|Weingut Max Ferd. Richter Brauneberger Juffer-Sonnenuhr Riesling Trockenbeerenauslese|Trockenbeerenauslese (TBA) 5.5% ABV|NV|0.375|690||1|Inc|R|1-2 Weeks|32|
 942-2020|Weingut Max Ferd. Richter Mulheimer Sonnenlay Riesling Sekt Brut|12% ABV, 2020, Brut|NV|0.75|145||1|Inc|R|1-2 Weeks|32|
 946-19|Weingut Max Ferd. Richter Pinot Blanc Sekt Brut Nature|Zero dosage - at least 52 months ageing on the lees|NV|0.75|150||1|Inc|R|1-2 Weeks|32|
-947-15|"Weingut Max Ferd. Richter Pinot Blanc ""R"""||NV|0.75|150||1|Inc|R|1-2 Weeks|32|
+947-15|Weingut Max Ferd. Richter Pinot Blanc R||NV|0.75|150||1|Inc|R|1-2 Weeks|32|
 1016-23|Peter Lauer Saar Riesling Fass 16 Trocken|11.5% abvPigot 90 dry mineral, daily drinking wine|NV|0.75|100||1|Inc|R|1-2 Weeks|32|
 1019-23|Peter Lauer Alt Scheidt Saar Riesling Feinherb|tangy, fruity, and invigorating, Fisch & Rayer: 89 10.5% abv|NV|0.75|100||1|Inc|R|1-2 Weeks|32|
 1001-22|Peter Lauer Ayler Kupp Fass 1 Riesling|betwen trocken and finherb - 11.4% abv 11-29 years old vines|NV|0.75|167||1|Inc|R|1-2 Weeks|0|
@@ -173,8 +173,8 @@ SKU|name|description|vintage|unit-size|price|url|min-order|tax|offer-type|delive
 1021-23|Peter Lauer Ayl No.21 Riesling|AYL Premier Cru (EL), trocken - 12% ABV Improved after 24h - Let it breadth long time. (MSFW 90-92) 33 years old vines|NV|0.75|180||1|Inc|R|1-2 Weeks|32|
 1011-22|Peter Lauer Schonfels Fass 11 Grosses Gewachs|SCHONFELS GG, 12.4% ABV, JS 95 109 years old vines|NV|0.75|270||1|Inc|R|1-2 Weeks|0|
 1011-23|Peter Lauer Schonfels Fass 11 Grosses Gewachs|SCHONFELS GG, 12.4% ABV, JS 100 109 years old vines|NV|0.75|245||1|Inc|R|1-2 Weeks|0|
-1012-22|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|"""UNTERSTENBERG"" GL, 11.9% ABV - MFW 91 68 years old vines"|NV|0.75|190||1|Inc|R|1-2 Weeks|0|
-1012-23|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|"""UNTERSTENBERG"" GL, 11.9% ABV - MFW 91 68 years old vines"|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
+1012-22|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|UNTERSTENBERG GL, 11.9% ABV - MFW 91 68 years old vines|NV|0.75|190||1|Inc|R|1-2 Weeks|0|
+1012-23|Peter Lauer Ayler Kupp Unterstenberg - Unterstenbersch Fass 12 Riesling|UNTERSTENBERG GL, 11.9% ABV - MFW 91 68 years old vines|NV|0.75|190||1|Inc|R|1-2 Weeks|32|
 1013-19|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
 1013-23|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|32|
 1013-22|Peter Lauer Feils Biebelhausem Riesling Fass 13 Grosse Lage GG|FEILS GG - 12.5% abv, JS 96 63 years old vines|NV|0.75|225||1|Inc|R|1-2 Weeks|0|
